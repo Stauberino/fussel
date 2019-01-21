@@ -1,1 +1,1 @@
-# Husky-bot
+# Fussel-bot
